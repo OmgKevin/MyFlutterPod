@@ -1,0 +1,22 @@
+{
+  "name": "MyFlutterPod",
+  "version": "0.1.0",
+  "summary": "A short description of MyFlutterPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/OmgKevin/MyFlutterPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "OmgKevin": "kunkunxing92@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/OmgKevin/MyFlutterPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyFlutterPod/Classes/**/*"
+}
